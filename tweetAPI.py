@@ -2,7 +2,7 @@ import tweepy as tp
 
 class tweetAPI:
     def __init__(self):
-        self.consumer_key = "consumer_key"
+        self.consumer_key = "c"
         self.consumer_secret = ""
 
         self.access_token = ""
